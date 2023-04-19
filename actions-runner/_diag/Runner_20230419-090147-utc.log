@@ -106,3 +106,53 @@
 [2023-04-19 09:01:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
 [2023-04-19 09:01:48Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
 [2023-04-19 09:01:49Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 09:01:49Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 09:01:49Z INFO MessageListener] VssConnection created
+[2023-04-19 09:01:49Z INFO Terminal] WRITE LINE: 
+[2023-04-19 09:01:49Z INFO Terminal] WRITE LINE: 
+[2023-04-19 09:01:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 09:01:49Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 09:01:50Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-04-19 09:01:51Z INFO MessageListener] Session created.
+[2023-04-19 09:01:51Z INFO Terminal] WRITE LINE: Current runner version: '2.303.0'
+[2023-04-19 09:01:51Z INFO Terminal] WRITE LINE: 2023-04-19 09:01:51Z: Listening for Jobs
+[2023-04-19 09:01:51Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-04-19 09:02:37Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 09:02:37Z INFO MessageListener] Message '3' received from session 'b6728e26-37d6-47e3-87d8-06b05a191def'.
+[2023-04-19 09:02:37Z INFO Runner] Received job message of length 21189 from service, with hash '730d151c89f315feb58f100d62198cb79f6557c2ad433567626557c902c88927'
+[2023-04-19 09:02:37Z INFO JobDispatcher] Job request 5 for plan 76456417-21f5-47a0-a157-43066e00cae3 job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 received.
+[2023-04-19 09:02:37Z INFO JobDispatcher] Pull OrchestrationId 76456417-21f5-47a0-a157-43066e00cae3.build._14_x from JWT claims
+[2023-04-19 09:02:37Z INFO Terminal] WRITE LINE: 2023-04-19 09:02:37Z: Running job: build (14.x)
+[2023-04-19 09:02:37Z INFO JobDispatcher] Start renew job request 5 for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 09:02:37Z INFO JobDispatcher] Successfully renew job request 5, job is valid till 4/19/2023 9:12:37 AM
+[2023-04-19 09:02:37Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper] Starting process:
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   File name: 'C:\inetpub\myapp\actions-runner\bin\Runner.Worker.exe'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2076 2188'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   Working directory: 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-04-19 09:02:37Z INFO ProcessInvokerWrapper] Process started with process id 11884, waiting for process exit.
+[2023-04-19 09:02:37Z INFO JobDispatcher] Send job request message to worker for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 09:02:37Z INFO ProcessChannel] Sending message of length 21189, with hash '730d151c89f315feb58f100d62198cb79f6557c2ad433567626557c902c88927'
+[2023-04-19 09:02:38Z INFO JobNotification] Entering JobStarted Notification
+[2023-04-19 09:02:38Z INFO JobNotification] Entering StartMonitor
+[2023-04-19 09:03:38Z INFO JobDispatcher] Successfully renew job request 5, job is valid till 4/19/2023 9:13:37 AM
+[2023-04-19 09:04:39Z INFO JobDispatcher] Successfully renew job request 5, job is valid till 4/19/2023 9:14:38 AM
+[2023-04-19 09:05:39Z INFO JobDispatcher] Successfully renew job request 5, job is valid till 4/19/2023 9:15:38 AM
+[2023-04-19 09:06:40Z INFO JobDispatcher] Successfully renew job request 5, job is valid till 4/19/2023 9:16:39 AM
+[2023-04-19 09:07:17Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-04-19 09:07:17Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-04-19 09:07:17Z INFO ProcessInvokerWrapper] Finished process 11884 with exit code 100, and elapsed time 00:04:40.0807357.
+[2023-04-19 09:07:17Z INFO JobDispatcher] Worker finished for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4. Code: 100
+[2023-04-19 09:07:17Z INFO JobDispatcher] finish job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 with result: Succeeded
+[2023-04-19 09:07:17Z INFO Terminal] WRITE LINE: 2023-04-19 09:07:17Z: Job build (14.x) completed with result: Succeeded
+[2023-04-19 09:07:17Z INFO JobDispatcher] Stop renew job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 09:07:17Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 5.
+[2023-04-19 09:07:17Z INFO JobNotification] Entering JobCompleted Notification
+[2023-04-19 09:07:17Z INFO JobNotification] Entering EndMonitor
