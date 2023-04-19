@@ -156,3 +156,55 @@
 [2023-04-19 09:07:17Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 5.
 [2023-04-19 09:07:17Z INFO JobNotification] Entering JobCompleted Notification
 [2023-04-19 09:07:17Z INFO JobNotification] Entering EndMonitor
+[2023-04-19 09:15:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 09:15:55Z INFO MessageListener] Message '4' received from session 'b6728e26-37d6-47e3-87d8-06b05a191def'.
+[2023-04-19 09:15:55Z INFO Runner] Received job message of length 22729 from service, with hash '57dd599f33bf9a0c0439aef70b2f6f2b848580980a847b94f8262e891be3db8c'
+[2023-04-19 09:15:55Z INFO JobDispatcher] Job request 6 for plan 3bf25f7e-2d95-4c6b-ab7f-d7f6c6da3980 job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 received.
+[2023-04-19 09:15:55Z INFO JobDispatcher] Pull OrchestrationId 3bf25f7e-2d95-4c6b-ab7f-d7f6c6da3980.build._14_x from JWT claims
+[2023-04-19 09:15:55Z INFO JobDispatcher] Job request 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 processed succeed.
+[2023-04-19 09:15:55Z INFO Terminal] WRITE LINE: 2023-04-19 09:15:55Z: Running job: build (14.x)
+[2023-04-19 09:15:55Z INFO JobDispatcher] Start renew job request 6 for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 09:15:57Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/19/2023 9:25:56 AM
+[2023-04-19 09:15:57Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper] Starting process:
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   File name: 'C:\inetpub\myapp\actions-runner\bin\Runner.Worker.exe'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2292 2220'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   Working directory: 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-04-19 09:15:57Z INFO ProcessInvokerWrapper] Process started with process id 1028, waiting for process exit.
+[2023-04-19 09:15:57Z INFO JobDispatcher] Send job request message to worker for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 09:15:57Z INFO ProcessChannel] Sending message of length 22729, with hash '57dd599f33bf9a0c0439aef70b2f6f2b848580980a847b94f8262e891be3db8c'
+[2023-04-19 09:15:58Z INFO JobNotification] Entering JobStarted Notification
+[2023-04-19 09:15:58Z INFO JobNotification] Entering StartMonitor
+[2023-04-19 09:16:58Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/19/2023 9:26:57 AM
+[2023-04-19 09:17:58Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/19/2023 9:27:57 AM
+[2023-04-19 09:18:59Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/19/2023 9:28:58 AM
+[2023-04-19 09:19:59Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/19/2023 9:29:59 AM
+[2023-04-19 09:20:59Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/19/2023 9:30:59 AM
+[2023-04-19 09:22:00Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 4/19/2023 9:31:59 AM
+[2023-04-19 09:22:52Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-04-19 09:22:52Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-04-19 09:22:52Z INFO ProcessInvokerWrapper] Finished process 1028 with exit code 100, and elapsed time 00:06:54.7145145.
+[2023-04-19 09:22:52Z INFO JobDispatcher] Worker finished for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4. Code: 100
+[2023-04-19 09:22:52Z INFO JobDispatcher] finish job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 with result: Succeeded
+[2023-04-19 09:22:52Z INFO Terminal] WRITE LINE: 2023-04-19 09:22:52Z: Job build (14.x) completed with result: Succeeded
+[2023-04-19 09:22:52Z INFO JobDispatcher] Stop renew job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 09:22:52Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 6.
+[2023-04-19 09:22:52Z INFO JobNotification] Entering JobCompleted Notification
+[2023-04-19 09:22:52Z INFO JobNotification] Entering EndMonitor
+[2023-04-19 09:29:06Z INFO Terminal] WRITE LINE: Exiting...
+[2023-04-19 09:29:06Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-04-19 09:29:06Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-04-19 09:29:06Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-04-19 09:29:06Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/mNZ1e9GMvlDqG8wN5c6hfnJjwcXjtEo9WApAvdcWPnpHSiaOMV/_apis/distributedtask/pools/1/messages?sessionId=b6728e26-37d6-47e3-87d8-06b05a191def&lastMessageId=4&status=Online&runnerVersion=2.303.0 has been cancelled.
+[2023-04-19 09:29:06Z INFO MessageListener] Get next message has been cancelled.
+[2023-04-19 09:29:06Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-04-19 09:29:06Z INFO JobDispatcher] Ensure WorkerDispather for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 run to finish, cancel any running job.
+[2023-04-19 09:29:06Z INFO JobDispatcher] Job request 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 processed succeed.
+[2023-04-19 09:29:07Z INFO Listener] Runner execution been cancelled.
