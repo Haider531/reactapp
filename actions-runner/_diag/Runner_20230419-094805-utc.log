@@ -102,3 +102,22 @@
 [2023-04-19 09:48:07Z INFO RunnerServer] EstablishVssConnection
 [2023-04-19 09:48:07Z INFO RunnerServer] Establish connection with 60 seconds timeout.
 [2023-04-19 09:48:07Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 09:48:08Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 09:48:08Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 09:48:08Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 09:48:08Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 09:48:09Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 09:48:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 09:48:09Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 09:48:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 09:48:09Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 09:48:09Z INFO MessageListener] VssConnection created
+[2023-04-19 09:48:09Z INFO Terminal] WRITE LINE: 
+[2023-04-19 09:48:09Z INFO Terminal] WRITE LINE: 
+[2023-04-19 09:48:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 09:48:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 09:48:11Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-04-19 09:48:11Z INFO MessageListener] Session created.
+[2023-04-19 09:48:11Z INFO Terminal] WRITE LINE: Current runner version: '2.303.0'
+[2023-04-19 09:48:11Z INFO Terminal] WRITE LINE: 2023-04-19 09:48:11Z: Listening for Jobs
+[2023-04-19 09:48:11Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
