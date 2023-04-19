@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-FCS2CAO",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/mNZ1e9GMvlDqG8wN5c6hfnJjwcXjtEo9WApAvdcWPnpHSiaOMV",
+  "gitHubUrl": "https://github.com/Haider531/reactapp",
+  "workFolder": "_work"
+}

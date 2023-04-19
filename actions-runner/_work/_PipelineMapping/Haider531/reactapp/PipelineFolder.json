@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Haider531/reactapp",
+  "pipelineDirectory": "reactapp",
+  "workspaceDirectory": "reactapp\\reactapp",
+  "repositories": {
+    "Haider531/reactapp": {
+      "repositoryPath": "reactapp\\reactapp",
+      "lastRunOn": "04/19/2023 13:12:53 +05:00"
+    }
+  },
+  "lastRunOn": "04/19/2023 14:02:40 +05:00"
+}

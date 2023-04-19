@@ -1,0 +1,204 @@
+[2023-04-19 08:12:43Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Root': 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO HostContext] Well known config file 'Credentials': 'C:\inetpub\myapp\actions-runner\.credentials'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Root': 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO HostContext] Well known config file 'Runner': 'C:\inetpub\myapp\actions-runner\.runner'
+[2023-04-19 08:12:43Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-04-19 08:12:43Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19044.
+[2023-04-19 08:12:43Z INFO Listener] Version: 2.303.0
+[2023-04-19 08:12:43Z INFO Listener] Commit: e676c7871817c1b484299cd93fabdf4b95e70741
+[2023-04-19 08:12:43Z INFO Listener] Culture: en-US
+[2023-04-19 08:12:43Z INFO Listener] UI Culture: en-US
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Root': 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO Listener] Validating directory permissions for: 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO CommandLineParser] Parse
+[2023-04-19 08:12:43Z INFO CommandLineParser] Parsing 1 args
+[2023-04-19 08:12:43Z INFO CommandLineParser] parsing argument
+[2023-04-19 08:12:43Z INFO CommandLineParser] HasArgs: False
+[2023-04-19 08:12:43Z INFO CommandLineParser] Adding Command: run
+[2023-04-19 08:12:43Z INFO Listener] Arguments parsed
+[2023-04-19 08:12:43Z INFO Runner] ExecuteCommand
+[2023-04-19 08:12:43Z INFO ConfigurationStore] currentAssemblyLocation: C:\inetpub\myapp\actions-runner\bin\Runner.Listener.dll
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO ConfigurationStore] binPath: C:\inetpub\myapp\actions-runner\bin
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Root': 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO ConfigurationStore] RootFolder: C:\inetpub\myapp\actions-runner
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Root': 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO HostContext] Well known config file 'Runner': 'C:\inetpub\myapp\actions-runner\.runner'
+[2023-04-19 08:12:43Z INFO ConfigurationStore] ConfigFilePath: C:\inetpub\myapp\actions-runner\.runner
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Root': 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO HostContext] Well known config file 'Credentials': 'C:\inetpub\myapp\actions-runner\.credentials'
+[2023-04-19 08:12:43Z INFO ConfigurationStore] CredFilePath: C:\inetpub\myapp\actions-runner\.credentials
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Root': 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\inetpub\myapp\actions-runner\.credentials_migrated'
+[2023-04-19 08:12:43Z INFO ConfigurationStore] MigratedCredFilePath: C:\inetpub\myapp\actions-runner\.credentials_migrated
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Root': 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO HostContext] Well known config file 'Service': 'C:\inetpub\myapp\actions-runner\.service'
+[2023-04-19 08:12:43Z INFO ConfigurationStore] ServiceConfigFilePath: C:\inetpub\myapp\actions-runner\.service
+[2023-04-19 08:12:43Z INFO CommandSettings] Flag 'help': 'False'
+[2023-04-19 08:12:43Z INFO CommandSettings] Flag 'version': 'False'
+[2023-04-19 08:12:43Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-04-19 08:12:43Z INFO CommandSettings] Flag 'check': 'False'
+[2023-04-19 08:12:43Z INFO CommandSettings] Command 'configure': 'False'
+[2023-04-19 08:12:43Z INFO CommandSettings] Command 'remove': 'False'
+[2023-04-19 08:12:43Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-04-19 08:12:43Z INFO ConfigurationManager] LoadSettings
+[2023-04-19 08:12:43Z INFO ConfigurationStore] IsConfigured()
+[2023-04-19 08:12:43Z INFO ConfigurationStore] IsConfigured: True
+[2023-04-19 08:12:43Z INFO ConfigurationManager] Is configured: True
+[2023-04-19 08:12:43Z INFO ConfigurationStore] Read setting file: 298 chars
+[2023-04-19 08:12:43Z INFO ConfigurationManager] Settings Loaded
+[2023-04-19 08:12:43Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-04-19 08:12:43Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-04-19 08:12:43Z INFO CommandSettings] Command 'run': 'True'
+[2023-04-19 08:12:43Z INFO ConfigurationStore] IsConfigured()
+[2023-04-19 08:12:43Z INFO ConfigurationStore] IsConfigured: True
+[2023-04-19 08:12:43Z INFO ConfigurationManager] Is configured: True
+[2023-04-19 08:12:43Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-04-19 08:12:43Z INFO Runner] Set runner startup type - Manual
+[2023-04-19 08:12:43Z INFO CommandSettings] Flag 'once': 'False'
+[2023-04-19 08:12:43Z INFO CommandSettings] Flag 'once': 'False'
+[2023-04-19 08:12:43Z INFO Runner] RunAsync
+[2023-04-19 08:12:43Z INFO ConfigurationManager] LoadSettings
+[2023-04-19 08:12:43Z INFO ConfigurationStore] IsConfigured()
+[2023-04-19 08:12:43Z INFO ConfigurationStore] IsConfigured: True
+[2023-04-19 08:12:43Z INFO ConfigurationManager] Is configured: True
+[2023-04-19 08:12:43Z INFO ConfigurationManager] Settings Loaded
+[2023-04-19 08:12:43Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "DESKTOP-FCS2CAO",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/mNZ1e9GMvlDqG8wN5c6hfnJjwcXjtEo9WApAvdcWPnpHSiaOMV",
+  "GitHubUrl": "https://github.com/Haider531/reactapp",
+  "WorkFolder": "_work"
+}
+[2023-04-19 08:12:43Z INFO MessageListener] Loading Credentials
+[2023-04-19 08:12:43Z INFO ConfigurationStore] HasCredentials()
+[2023-04-19 08:12:43Z INFO ConfigurationStore] stored True
+[2023-04-19 08:12:43Z INFO CredentialManager] GetCredentialProvider
+[2023-04-19 08:12:43Z INFO CredentialManager] Creating type OAuth
+[2023-04-19 08:12:43Z INFO CredentialManager] Creating credential type: OAuth
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:43Z INFO HostContext] Well known directory 'Root': 'C:\inetpub\myapp\actions-runner'
+[2023-04-19 08:12:43Z INFO HostContext] Well known config file 'RSACredentials': 'C:\inetpub\myapp\actions-runner\.credentials_rsaparams'
+[2023-04-19 08:12:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 08:12:43Z INFO MessageListener] Attempt to create session.
+[2023-04-19 08:12:43Z INFO MessageListener] Connecting to the Runner Server...
+[2023-04-19 08:12:43Z INFO RunnerServer] EstablishVssConnection
+[2023-04-19 08:12:43Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-04-19 08:12:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 08:12:43Z INFO RunnerServer] EstablishVssConnection
+[2023-04-19 08:12:43Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-04-19 08:12:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 08:12:43Z INFO RunnerServer] EstablishVssConnection
+[2023-04-19 08:12:43Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-04-19 08:12:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 08:12:44Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 08:12:44Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 08:12:44Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 08:12:44Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 08:12:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 08:12:45Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 08:12:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 08:12:45Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-04-19 08:12:45Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-04-19 08:12:45Z INFO MessageListener] VssConnection created
+[2023-04-19 08:12:45Z INFO Terminal] WRITE LINE: 
+[2023-04-19 08:12:45Z INFO Terminal] WRITE LINE: 
+[2023-04-19 08:12:46Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 08:12:46Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 08:12:47Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-04-19 08:12:47Z INFO MessageListener] Session created.
+[2023-04-19 08:12:47Z INFO Terminal] WRITE LINE: Current runner version: '2.303.0'
+[2023-04-19 08:12:47Z INFO Terminal] WRITE LINE: 2023-04-19 08:12:47Z: Listening for Jobs
+[2023-04-19 08:12:47Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-04-19 08:12:50Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 08:12:50Z INFO MessageListener] Message '1' received from session 'd097fa1a-52f9-428c-b575-657c1c913081'.
+[2023-04-19 08:12:50Z INFO Runner] Received job message of length 21190 from service, with hash '2885802b3730ba4a76c2c2bb7d555d1482389e97c951ca3affa05f9e57ca7e31'
+[2023-04-19 08:12:50Z INFO JobDispatcher] Job request 1 for plan 5f9d7203-20bc-44da-8dec-ccee52c0d99b job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 received.
+[2023-04-19 08:12:50Z INFO JobDispatcher] Pull OrchestrationId 5f9d7203-20bc-44da-8dec-ccee52c0d99b.build._14_x from JWT claims
+[2023-04-19 08:12:50Z INFO Terminal] WRITE LINE: 2023-04-19 08:12:50Z: Running job: build (14.x)
+[2023-04-19 08:12:50Z INFO JobDispatcher] Start renew job request 1 for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 08:12:51Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 4/19/2023 8:22:50 AM
+[2023-04-19 08:12:51Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper] Starting process:
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   File name: 'C:\inetpub\myapp\actions-runner\bin\Runner.Worker.exe'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2204 2216'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   Working directory: 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-04-19 08:12:51Z INFO ProcessInvokerWrapper] Process started with process id 16708, waiting for process exit.
+[2023-04-19 08:12:51Z INFO JobDispatcher] Send job request message to worker for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 08:12:51Z INFO ProcessChannel] Sending message of length 21190, with hash '2885802b3730ba4a76c2c2bb7d555d1482389e97c951ca3affa05f9e57ca7e31'
+[2023-04-19 08:12:51Z INFO JobNotification] Entering JobStarted Notification
+[2023-04-19 08:12:51Z INFO JobNotification] Entering StartMonitor
+[2023-04-19 08:13:50Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-04-19 08:13:50Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-04-19 08:13:50Z INFO ProcessInvokerWrapper] Finished process 16708 with exit code 102, and elapsed time 00:00:58.8473112.
+[2023-04-19 08:13:50Z INFO JobDispatcher] Worker finished for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4. Code: 102
+[2023-04-19 08:13:50Z INFO JobDispatcher] finish job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 with result: Failed
+[2023-04-19 08:13:50Z INFO Terminal] WRITE LINE: 2023-04-19 08:13:50Z: Job build (14.x) completed with result: Failed
+[2023-04-19 08:13:50Z INFO JobDispatcher] Stop renew job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 08:13:50Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 1.
+[2023-04-19 08:13:50Z INFO JobNotification] Entering JobCompleted Notification
+[2023-04-19 08:13:50Z INFO JobNotification] Entering EndMonitor
+[2023-04-19 08:15:22Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\inetpub\myapp\actions-runner\.credentials_rsaparams
+[2023-04-19 08:15:22Z INFO MessageListener] Message '2' received from session 'd097fa1a-52f9-428c-b575-657c1c913081'.
+[2023-04-19 08:15:22Z INFO Runner] Received job message of length 21189 from service, with hash 'e335900c240ecb0de3d080f8c6ecbd628e09604b65858ffa1c502ae3297fca82'
+[2023-04-19 08:15:22Z INFO JobDispatcher] Job request 3 for plan c5615416-c402-486d-9088-9e1d1cac1dcf job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 received.
+[2023-04-19 08:15:22Z INFO JobDispatcher] Pull OrchestrationId c5615416-c402-486d-9088-9e1d1cac1dcf.build._14_x from JWT claims
+[2023-04-19 08:15:22Z INFO JobDispatcher] Job request 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 processed succeed.
+[2023-04-19 08:15:22Z INFO Terminal] WRITE LINE: 2023-04-19 08:15:22Z: Running job: build (14.x)
+[2023-04-19 08:15:22Z INFO JobDispatcher] Start renew job request 3 for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 08:15:23Z INFO JobDispatcher] Successfully renew job request 3, job is valid till 4/19/2023 8:25:22 AM
+[2023-04-19 08:15:23Z INFO HostContext] Well known directory 'Bin': 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper] Starting process:
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   File name: 'C:\inetpub\myapp\actions-runner\bin\Runner.Worker.exe'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1820 2296'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   Working directory: 'C:\inetpub\myapp\actions-runner\bin'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-04-19 08:15:23Z INFO ProcessInvokerWrapper] Process started with process id 7748, waiting for process exit.
+[2023-04-19 08:15:23Z INFO JobDispatcher] Send job request message to worker for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 08:15:23Z INFO ProcessChannel] Sending message of length 21189, with hash 'e335900c240ecb0de3d080f8c6ecbd628e09604b65858ffa1c502ae3297fca82'
+[2023-04-19 08:15:23Z INFO JobNotification] Entering JobStarted Notification
+[2023-04-19 08:15:23Z INFO JobNotification] Entering StartMonitor
+[2023-04-19 08:15:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-04-19 08:15:46Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-04-19 08:15:46Z INFO ProcessInvokerWrapper] Finished process 7748 with exit code 102, and elapsed time 00:00:22.9554537.
+[2023-04-19 08:15:46Z INFO JobDispatcher] Worker finished for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4. Code: 102
+[2023-04-19 08:15:46Z INFO JobDispatcher] finish job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 with result: Failed
+[2023-04-19 08:15:46Z INFO Terminal] WRITE LINE: 2023-04-19 08:15:46Z: Job build (14.x) completed with result: Failed
+[2023-04-19 08:15:46Z INFO JobDispatcher] Stop renew job request for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4.
+[2023-04-19 08:15:46Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 3.
+[2023-04-19 08:15:46Z INFO JobNotification] Entering JobCompleted Notification
+[2023-04-19 08:15:46Z INFO JobNotification] Entering EndMonitor
+[2023-04-19 08:27:01Z INFO Terminal] WRITE LINE: Exiting...
+[2023-04-19 08:27:01Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-04-19 08:27:01Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-04-19 08:27:01Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-04-19 08:27:01Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/mNZ1e9GMvlDqG8wN5c6hfnJjwcXjtEo9WApAvdcWPnpHSiaOMV/_apis/distributedtask/pools/1/messages?sessionId=d097fa1a-52f9-428c-b575-657c1c913081&lastMessageId=2&status=Online&runnerVersion=2.303.0 has been cancelled.
+[2023-04-19 08:27:01Z INFO MessageListener] Get next message has been cancelled.
+[2023-04-19 08:27:01Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-04-19 08:27:01Z INFO JobDispatcher] Ensure WorkerDispather for job 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 run to finish, cancel any running job.
+[2023-04-19 08:27:01Z INFO JobDispatcher] Job request 006c7e6f-00a1-57ff-4d9c-5871960fc9e4 processed succeed.
+[2023-04-19 08:27:02Z INFO Listener] Runner execution been cancelled.
